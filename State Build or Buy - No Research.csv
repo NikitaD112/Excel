@@ -1,5 +1,5 @@
-﻿"State,Build,Buy",,
-"Arizona,7400,1300",,
-"North Carolina,5250,1750",,
-"Florida,3400,1200",,
-"South Carolina,1850,950",,
+﻿State,Build,Buy
+Arizona,"$7,400 ","$1,300 "
+North Carolina,"$5,250 ","$1,750 "
+Florida,"$3,400 ","$1,200 "
+South Carolina,"$1,850 ",$950 
