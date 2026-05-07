@@ -1,0 +1,5 @@
+state,build_cost_sqft,buy_cost_sqft,fav_sell_sqft,unfav_sell_sqft,build_emv,buy_emv,best
+Arizona,209,270,338,228,7400,1300,Build
+North Carolina,183,218,279,192,5250,1750,Build
+Florida,248,270,353,211,3400,1200,Build
+South Carolina,195,202,253,170,1650,950,Build
